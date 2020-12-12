@@ -1,3 +1,3 @@
 # Course-Coding
 
-# This code is for exploring data.
+# This repository is for course datasets 
